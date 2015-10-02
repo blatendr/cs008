@@ -1,0 +1,102 @@
+
+body{
+    background: mistyrose; 
+    margin: 36px auto;
+    width: 90%;
+}
+
+#page{
+    margin: 0 auto 53px;
+    width: 100%; 
+    border: none
+}
+
+#main{
+    float: right;
+    width: 100%; 
+}
+
+#other{
+    float: right;
+    width: 36.7777778%; 
+}
+
+
+header h1 {
+      border: 1px solid #bb6524;
+}
+
+
+
+nav ol {
+    padding-left: 5.33333333%;  
+}
+nav ol li{
+    display: inline-block;
+    list-style-type: none;
+    padding-right: 10em;
+}
+
+/*
+article h1, article p, article table{
+    padding: auto; 
+}
+*/
+
+footer{
+    clear: both;
+    padding: 0.8em 5.33333333%;  
+}
+
+
+fieldset{
+    border: 1px solid #bb6524;
+    clear: both;  
+}
+
+
+fieldset.contact{
+    float: left;
+}
+
+
+
+fieldset.contact label{
+    display: block;
+    text-align: right 
+}
+
+fieldset.buttons{
+    border: 1px solid #bb6524;
+}
+
+fieldset.wrapper {
+    border: 0;
+    margin: auto;
+}
+
+fieldset.wrapper legend {
+    color: #00498e;
+    font-size: .9em;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+fieldset.wrapper > legend {
+    
+    font-size: 2em;
+}
+
+
+
+
+.mistake {
+    color: #fff;
+    background-color:#800;
+    border: thin solid #000;
+}
+
+
+#errors ol li{
+    color: #ff5555;
+}

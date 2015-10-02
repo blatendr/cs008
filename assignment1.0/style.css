@@ -1,0 +1,21 @@
+body {background-color:burlywood;}
+
+h1{color:blueviolet; 
+
+   font-size:40px;}
+
+p#first {color:green;}
+
+img {float: left}
+
+figure.img-left {
+    border: black;
+    float: right;
+    
+}
+
+figcaption {
+    color: cadetblue;
+    font-style: italic;
+    text-align: center;
+}
